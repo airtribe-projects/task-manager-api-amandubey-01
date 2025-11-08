@@ -105,6 +105,9 @@ All tests are written using **tap** and cover all API endpoints, including valid
 
 ---
 
+## Results
+It passed all the 19 test cases.
+
 ## Notes
 
 - Tasks are stored in-memory, so data resets on server restart.
